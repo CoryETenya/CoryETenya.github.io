@@ -68,7 +68,7 @@ No tomamos fotos de la comida en este restaurante, pero sí obtuvimos una excele
 
 Después de la cena, llegamos a casa justo a tiempo para ver una de las puestas de sol más hermosas que he presenciado en mucho tiempo, justo desde mi porche delantero.
 
-6739.jpeg
+![6739.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6739.jpeg)
 
 Ella es la mujer más increíble y hermosa del universo, esta fue nuestra primera noche juntos.
 
