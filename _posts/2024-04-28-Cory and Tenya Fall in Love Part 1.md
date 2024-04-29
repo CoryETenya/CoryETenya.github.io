@@ -90,7 +90,7 @@ After this we just enjoyed each other's company telling stories listening to Mex
 ---
 
 ```html
-[Link to Part 2](part-two link-here)
+[Link to Part 2](part-two link-here) pushing again 
 ```
 
 (https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/)
