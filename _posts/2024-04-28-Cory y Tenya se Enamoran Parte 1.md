@@ -40,31 +40,31 @@ Después de descargar las provisiones, decidimos ir a cenar en el Diner de Antho
 
 Anthony's tiene una obra/show todos los fines de semana por la noche, pero decidimos simplemente disfrutar el uno del otro con un Moscow Mule, una Margarita, una Ensalada de Pollo Crujiente que podría alimentar a una familia de 3, y por último mi Hamburguesa con Queso y Tocino sin Gluten. (Soy celíaco, así que lo sin gluten aparecerá a menudo.) Además, solo para mencionar, estoy escribiendo este post en el blog varias semanas después de que Tenya y yo nos conocimos, por lo que los elementos del menú son borrosos en mi mente y los futuros posts en el blog tendrán los elementos exactos de comida si recuerdo anotarlos, jaja.
 
-IMG_6687.jpeg
+![IMG_6687.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6687.jpeg)
 
 La Gran Guitarra al Estilo de Elvis, Tenya es una experta músico, 😉
 
-IMG_6695.jpeg
+![IMG_6695.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6695.jpeg)
 
 Tenya se maquilla antes de salir en el Chevy Bel Air - 1955 (creo que es de 1955).
 
-IMG_6703.jpeg
+![IMG_6703.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6703.jpeg)
 
-IMG_6706.jpeg
+![IMG_6706.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6706.jpeg)
 
 Solo estamos esperando una mesa en el área de espera retro en el frente.
 
-IMG_6713.jpeg
+![IMG_6713.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6713.jpeg)
 
-IMG_6718.jpeg
+![IMG_6718.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6718.jpeg)
 
 Tenya Monroe
 
-IMG_6722.jpeg
+![IMG_6722.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6722.jpeg)
 
 No tomamos fotos de la comida en este restaurante, pero sí obtuvimos una excelente foto de nosotros disfrutando juntos de una margarita.
 
-IMG_6729.jpeg
+![IMG_6729.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6729.jpeg)
 
 Después de la cena, llegamos a casa justo a tiempo para ver una de las puestas de sol más hermosas que he presenciado en mucho tiempo, justo desde mi porche delantero.
 
@@ -72,6 +72,6 @@ Después de la cena, llegamos a casa justo a tiempo para ver una de las puestas 
 
 Ella es la mujer más increíble y hermosa del universo, esta fue nuestra primera noche juntos.
 
-IMG_6736.jpeg
+![IMG_6736.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6736.jpeg)
 
 Después de esto, simplemente disfrutamos de la compañía del otro contando historias, escuchando música al estilo mexicano y riendo con toda la alegría de nuestros corazones. Qué día tan perfecto para comenzar un fin de semana de exploración en nuestros corazones.
