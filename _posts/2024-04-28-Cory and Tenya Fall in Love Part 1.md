@@ -11,7 +11,7 @@ tags:
   - Love
 ---
 
-> [!quote] Friends are the siblings God never gave us.
+> Friends are the siblings God never gave us.
 > — Mencius
 
 ---
