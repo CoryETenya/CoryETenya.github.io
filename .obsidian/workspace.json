@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "da690eb0bf9ff62a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e67813312342410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3ce596c92282778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-04-28-Cory and Tenya Fall in Love Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebd86fd41219a616",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db0c8d89fa1c7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "665f6520b08c9e2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f2b8c94ff755909",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b469cb0df97ea77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13fd33b034484d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "4891b2014c481c3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "525ed3df47505c09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-04-28-Cory and Tenya Fall in Love Part 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29e5a6a91bdb872b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-04-28-Cory and Tenya Fall in Love Part 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1958185b5e43d014",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8a431814c212ac0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-04-28-Cory and Tenya Fall in Love Part 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a3ce596c92282778",
+  "lastOpenFiles": [
+    "IMG_6736.jpeg",
+    "IMG_6739.jpeg",
+    "IMG_6729.jpeg",
+    "IMG_6722.jpeg",
+    "IMG_6718.jpeg",
+    "IMG_6713.jpeg",
+    "IMG_6703.jpeg",
+    "IMG_6706.jpeg",
+    "IMG_6695.jpeg",
+    "IMG_6687.jpeg",
+    "Templates/Posts_Main.md",
+    "_posts/2024-04-28-Cory and Tenya Fall in Love Part 1.md",
+    "Templates"
+  ]
+}
