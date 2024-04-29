@@ -78,7 +78,7 @@ We didn't get any food pics at this restaurant but we did get a great shot of us
 After Diner we made it back home just in time to see one of the most beautiful sunsets I have witnessed in awhile, right from my front porch. 
 
 
-![6739.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/G_6739.jpeg)
+![6739.jpeg](https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6739.jpeg)
 
 
 She is the most amazing and gorgeous woman in the universe this was our first night together. 
@@ -95,6 +95,7 @@ After this we just enjoyed each other's company telling stories listening to Mex
 
 (https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/)
 
+Push from here
 
 
 
