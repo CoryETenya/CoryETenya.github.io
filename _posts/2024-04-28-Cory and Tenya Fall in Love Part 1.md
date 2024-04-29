@@ -45,45 +45,45 @@ After we unloaded the supplies we decided to head out to diner at Anthony's Dine
 Anthony's has a play/show every weekend nights but we decided to just enjoy each other with a Moscow Mule, A Margarita, A Crispy Chicken Salad that could feed a Family of 3. and lastly my Gluten-Free Bacon Cheeseburger. (I'm Celiac so GF is going to come up often.) Also just to mention I'm writing this blog post several weeks after Tenya and I met so the items on menu are fuzzy in my mind and future blog posts will have the exact food items if I remember to note them down, lol. 
 
 
-![[IMG_6687.jpeg]]
+![[https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6687.jpeg]]
 
 
 The Big Elvis Style Guitar, Tenya is an expert musician, 😉  
 
 
-![[IMG_6695.jpeg]]
+![[https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6695.jpeg]]
 
 Tenya is doing her makeup before heading out on the road in the Chevy Bel Air - 1955 (I think it's 1955.) 
 
-![[IMG_6703.jpeg]]
+![[https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6703.jpeg]]
 
-![[IMG_6706.jpeg]]
+![[https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6706.jpeg]]
 
 
 We are just hanging out waiting for a table in the retro waiting area out front. 
 
-![[IMG_6713.jpeg]]
+![[https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6713.jpeg]]
 
-![[IMG_6718.jpeg]]
+![[https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6718.jpeg]]
 
 Tenya Monroe
 
 
-![[IMG_6722.jpeg]]
+![[https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6722.jpeg]]
 
 We didn't get any food pics at this restaurant but we did get a great shot of us enjoying a margarita together. 
 
-![[IMG_6729.jpeg]]
+![[https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6729.jpeg]]
 
 After Diner we made it back home just in time to see one of the most beautiful sunsets I have witnessed in awhile, right from my front porch. 
 
 
-**![[IMG_6739.jpeg]]**
+**![[https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6739.jpeg]]**
 
 
 She is the most amazing and gorgeous woman in the universe this was our first night together. 
 
-![[IMG_6736.jpeg]]
+![[https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/IMG_6736.jpeg]]
 
 After this we just enjoyed each other's company telling stories listening to Mexican style music and laughing with all the joy in our hearts. What a perfect first day to coming weekend of our exploration into each others hearts. 
 
@@ -91,6 +91,8 @@ After this we just enjoyed each other's company telling stories listening to Mex
 
 [Link to Part 2](part-two link-here)
 
+
+https://raw.githubusercontent.com/CoryETenya/CoryETenya.github.io/main/Media/
 
 
 
